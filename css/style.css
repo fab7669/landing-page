@@ -66,6 +66,7 @@ img{
     text-align:center;
     margin-top: 100px;
     text-transform: uppercase;
+    text-shadow: 10px 5px 5px black;
 }
 #top2>p{
     padding-top: 80px;
@@ -75,8 +76,8 @@ img{
     font-family: 'Courier New', Courier, monospace;
     font-weight: 800;
     text-transform: uppercase;
-   
-}
+    text-shadow: 10px 5px 5px black;
+}  
 #top2 figure{
     height: 350px;
     width: 350px;
